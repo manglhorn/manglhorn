@@ -16,5 +16,4 @@ You can click the Preview link to take a look at your changes.
 --->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manglhorn&layout=compact)](https://github.com/manglhorn/github-readme-stats)
 
-Маленький (small):  
-[![codewars](https://www.codewars.com/users/manglhorn/badges/small)](https://www.codewars.com/users/manglhorn) 
+/www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)   
