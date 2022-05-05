@@ -18,4 +18,4 @@ You can click the Preview link to take a look at your changes.
 
 [![codewars](https://www.codewars.com/users/manglhorn/badges/large)](https://www.codewars.com/users/manglhorn)   
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?manglhorn=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=manglhorn&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
