@@ -4,17 +4,17 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Java Developer from Poland</h3>
 
-<!---Пример кода-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+<body>
+  <img src="https://eduzorro.com/wp-content/uploads/2020/01/MA-logo_png-01.png"  align="left" width="200" height="120"  title="mate academy"/>
+<p style="margin-left: 40px"> During 5 months of training in programming courses, I completed:</p>
+<p style="margin-left: 40px"> - about 50 problems on java core,</p>
+<p style="margin-left: 40px"> - about 50 mini projects on OOP, JDBC, Java WEB, Spring and Hibernate.</p>
+</body>
 
+<h1 align="center"> </h1>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
-
-<!---
-manglhorn/manglhorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manglhorn&layout=compact)](https://github.com/manglhorn/github-readme-stats)
 
 [![codewars](https://www.codewars.com/users/manglhorn/badges/large)](https://www.codewars.com/users/manglhorn)   
 
