@@ -13,7 +13,7 @@
 <h1 align="left"> </h1>
 <h3 align="left">Codewars level</h3>
 
-[![codewars](https://www.codewars.com/users/manglhorn/badges/large)](https://www.codewars.com/users/manglhorn) <p> Pumping my skills on this platform, here I'm looking for new elegant solutions to problems. I solve problems 8, 7, more often 6 levels, sometimes 6 level</p>
+[![codewars](https://www.codewars.com/users/manglhorn/badges/large)](https://www.codewars.com/users/manglhorn) <p> Pumping my skills on this platform, here I'm looking for new elegant solutions to problems. I solve problems 8, 7, more often 6 levels, sometimes 5 level</p>
 
 <h1 align="left"> </h1>
 <h3 align="left">LeetCode level</h3>
