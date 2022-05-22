@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/wladyslaw-sysa-0a9a2120a/" title = "my LinkedIn" target="_blank">
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/vladyslav-sysa" title = "my LinkedIn" target="_blank">
 𝕍𝕝𝕒𝕕 </a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="left">Skills received in the course</h3>
