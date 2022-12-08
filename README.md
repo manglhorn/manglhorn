@@ -2,14 +2,14 @@
 𝕍𝕝𝕒𝕕 </a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/logo-golang.svg" height="32"/></h1>
 
-<aside>
-<h1 align="left"> </h1>
-<h3 align="left">Trainee Java Developer in AccentU</h3>
+<h3 align="left">Trainee Java Developer in AccentU (EdTech startup)</h3>
 <body>
-  <img src="https://user-images.githubusercontent.com/38344357/206547625-39dca177-4fd4-4c0f-8a82-234615c35684.png"  align="left" width="200" height="120"  title="mate academy"/>
- 
+  <img src="https://user-images.githubusercontent.com/38344357/206547625-39dca177-4fd4-4c0f-8a82-234615c35684.png"  align="left" width="200" height="120"  title="mate academy"/> <br>
+  <p style="margin-left: 40px"> Site support: testing in Unit and Mockito, working with REST and POSTMAN, studying the necessary programming practices etc. </p>
+  <br>
+<h1 align="left"> </h1>
 </body>
-  </aside>
+  
 
 <h3 align="left">Skills received in the course</h3>
 <body>
