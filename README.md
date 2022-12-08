@@ -4,7 +4,7 @@
 
 <h3 align="center">Trainee Java Developer in AccentU</h3>
 <body>
-  <img src="https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/280062388_5382306185147534_6557951161375370422_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=106&ccb=1-7&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_ohc=5ERRlMa0FsEAX-vNE_2&tn=GSMV-GVKHDgKiR-0&_nc_ht=scontent-fra5-2.xx&oh=00_AfBsVcBFlq26dESscbZM6oObDzKkE7h0KcmpucLY6RRjwA&oe=6397F62E)"  align="left" width="200" height="120"  title="mate academy"/>
+  <img src="[https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/280062388_5382306185147534_6557951161375370422_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=106&ccb=1-7&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_ohc=5ERRlMa0FsEAX-vNE_2&tn=GSMV-GVKHDgKiR-0&_nc_ht=scontent-fra5-2.xx&oh=00_AfBsVcBFlq26dESscbZM6oObDzKkE7h0KcmpucLY6RRjwA&oe=6397F62E](https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/297035131_171789045414317_4676716617815274589_n.png?_nc_cat=105&ccb=1-7&_nc_sid=dd9801&efg=eyJpIjoidCJ9&_nc_ohc=ByYoreIgMFoAX-0rcIo&tn=GSMV-GVKHDgKiR-0&_nc_ht=scontent-fra5-2.xx&oh=00_AfABSSYK6Dlbca6SaGhaOuLvkNvmBEVvYYIgWIPScJR-Mw&oe=6396A71A))"  align="left" width="200" height="120"  title="mate academy"/>
 <p style="margin-left: 40px"> During 5 months of training in programming courses, I completed:</p>
 <p style="margin-left: 40px"> - about 100 problems on JAVA CORE,</p>
 <p style="margin-left: 40px"> - about 50 mini projects on OOP, JDBC, Java WEB, Spring and Hibernate.</p>
