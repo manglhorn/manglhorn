@@ -5,7 +5,7 @@
 <h3 align="left">Trainee Java Developer in AccentU (EdTech startup)</h3>
 <body>
   <img src="https://user-images.githubusercontent.com/38344357/206547625-39dca177-4fd4-4c0f-8a82-234615c35684.png"  align="left" width="200" height="120"  title="mate academy"/> <br>
-  <p style="margin-left: 40px"> Site support: testing in Unit and Mockito, working with REST and POSTMAN, studying the necessary programming practices etc. </p>
+  <p style="margin-left: 40px"> Site support: testing in Unit and Mockito, working with REST/POSTMAN/Swagger, studying the necessary programming practices etc. </p>
   <br>
 <h1 align="left"> </h1>
 </body>
