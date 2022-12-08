@@ -2,6 +2,14 @@
 𝕍𝕝𝕒𝕕 </a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/logo-golang.svg" height="32"/></h1>
 
+<h3 align="center">Trainee Java Developer in AccentU</h3>
+<body>
+  <img src="[https://eduzorro.com/wp-content/uploads/2020/01/MA-logo_png-01.png](https://drive.google.com/file/d/1x10nfGqIN4B8cQqTEVnyUMRlkS2URKM5/view?usp=share_link)"  align="left" width="200" height="120"  title="mate academy"/>
+<p style="margin-left: 40px"> During 5 months of training in programming courses, I completed:</p>
+<p style="margin-left: 40px"> - about 100 problems on JAVA CORE,</p>
+<p style="margin-left: 40px"> - about 50 mini projects on OOP, JDBC, Java WEB, Spring and Hibernate.</p>
+</body>
+
 <h3 align="left">Skills received in the course</h3>
 <body>
   <img src="https://eduzorro.com/wp-content/uploads/2020/01/MA-logo_png-01.png"  align="left" width="200" height="120"  title="mate academy"/>
