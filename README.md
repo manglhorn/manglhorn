@@ -4,7 +4,7 @@
 
 <h3 align="center">Trainee Java Developer in AccentU</h3>
 <body>
-  <img src="[https://eduzorro.com/wp-content/uploads/2020/01/MA-logo_png-01.png](https://drive.google.com/file/d/1x10nfGqIN4B8cQqTEVnyUMRlkS2URKM5/view?usp=share_link)"  align="left" width="200" height="120"  title="mate academy"/>
+  <img src="https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/280062388_5382306185147534_6557951161375370422_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=106&ccb=1-7&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_ohc=5ERRlMa0FsEAX-vNE_2&tn=GSMV-GVKHDgKiR-0&_nc_ht=scontent-fra5-2.xx&oh=00_AfBsVcBFlq26dESscbZM6oObDzKkE7h0KcmpucLY6RRjwA&oe=6397F62E)"  align="left" width="200" height="120"  title="mate academy"/>
 <p style="margin-left: 40px"> During 5 months of training in programming courses, I completed:</p>
 <p style="margin-left: 40px"> - about 100 problems on JAVA CORE,</p>
 <p style="margin-left: 40px"> - about 50 mini projects on OOP, JDBC, Java WEB, Spring and Hibernate.</p>
