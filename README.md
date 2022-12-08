@@ -5,7 +5,7 @@
 
 <body>
   <img src="https://user-images.githubusercontent.com/38344357/206547625-39dca177-4fd4-4c0f-8a82-234615c35684.png"  align="left" width="200" height="120"  title="mate academy"/>
-<h3 align="center">Trainee Java Developer in AccentU</h3>
+  <p style="margin-left: 40px"> <br>Trainee Java Developer in AccentU</br></p>
 </body>
 
 <h3 align="left">Skills received in the course</h3>
